@@ -28,5 +28,3 @@
 12. Implement an absolute loader. 
 
 13. Implement a relocating loader. 
-
-
