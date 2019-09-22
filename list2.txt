@@ -1,0 +1,59 @@
+total 263
+drwxrwxrwx 1 alinbabu alinbabu   512 Apr 14 13:24 .
+drwxrwxrwx 1 alinbabu alinbabu   512 Apr 13 17:18 ..
+drwxrwxrwx 1 alinbabu alinbabu   512 Apr  7 18:04 .vscode
+-rwxrwxrwx 1 alinbabu alinbabu  2120 Oct  2  2017 CSCAN.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1270 Aug 10  2017 FCFS.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1886 Aug 10  2017 PRIORITY.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1173 Oct 10  2017 Plsql.txt
+-rwxrwxrwx 1 alinbabu alinbabu  2238 Aug 10  2017 ROUND ROBIN.txt
+-rwxrwxrwx 1 alinbabu alinbabu  2087 Oct  2  2017 SCAN.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1664 Aug 10  2017 SJF.txt
+-rwxrwxrwx 1 alinbabu alinbabu  3369 Oct  5  2017 Symtable.txt
+-rwxrwxrwx 1 alinbabu alinbabu   117 Feb  1  2018 Ubuntu Program Location.txt
+-rwxrwxrwx 1 alinbabu alinbabu 13008 Apr 14 13:24 a.out
+-rwxrwxrwx 1 alinbabu alinbabu  2678 Sep 22  2017 banker.txt
+-rwxrwxrwx 1 alinbabu alinbabu  6742 Nov 18  2016 binarytree.txt
+-rwxrwxrwx 1 alinbabu alinbabu  4335 Nov 18  2016 bst.txt
+-rwxrwxrwx 1 alinbabu alinbabu   722 Mar  6 19:35 client.c
+-rwxrwxrwx 1 alinbabu alinbabu 12928 Apr  7 19:35 cudpclient
+-rwxrwxrwx 1 alinbabu alinbabu  1101 Apr  8 12:58 cudpclient.c
+-rwxrwxrwx 1 alinbabu alinbabu 12992 Apr  7 19:34 cudpserver
+-rwxrwxrwx 1 alinbabu alinbabu  1007 Apr  7 21:09 cudpserver.c
+-rwxrwxrwx 1 alinbabu alinbabu  1251 Nov 15  2016 deletionBST.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1565 Nov 16  2016 deletionBTREE.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1511 Apr  7 18:47 demo.c
+-rwxrwxrwx 1 alinbabu alinbabu  2390 Oct 19  2017 dphilosopher.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1677 Jan 23  2018 dpipe.c
+-rwxrwxrwx 1 alinbabu alinbabu  1671 Jan 23  2018 dpipe.txt
+-rwxrwxrwx 1 alinbabu alinbabu  2300 Apr 14 13:23 ftpclient.c
+-rwxrwxrwx 1 alinbabu alinbabu  2632 Apr 14 13:06 ftpserver.c
+-rwxrwxrwx 1 alinbabu alinbabu   480 Mar 26 19:30 gobackn.c
+-rwxrwxrwx 1 alinbabu alinbabu  3825 Nov 24  2016 hash.txt
+-rwxrwxrwx 1 alinbabu alinbabu   208 Oct 19  2017 input.txt
+-rwxrwxrwx 1 alinbabu alinbabu  3500 Apr 14 13:21 list2.txt
+-rwxrwxrwx 1 alinbabu alinbabu   590 Feb  1  2018 mclient.c
+-rwxrwxrwx 1 alinbabu alinbabu  1928 Jan 22  2018 mprocess.c
+-rwxrwxrwx 1 alinbabu alinbabu   947 Feb  1  2018 mserver.c
+-rwxrwxrwx 1 alinbabu alinbabu 13320 Mar 31 20:10 muclient
+-rwxrwxrwx 1 alinbabu alinbabu  2179 Apr  7 21:09 muclient.c
+-rwxrwxrwx 1 alinbabu alinbabu  1412 Apr  8 09:48 mul2.asm
+-rwxrwxrwx 1 alinbabu alinbabu 12960 Mar 31 18:59 multiclient
+-rwxrwxrwx 1 alinbabu alinbabu 13280 Mar 31 20:10 muserver
+-rwxrwxrwx 1 alinbabu alinbabu  3394 Mar 31 20:24 muserver.c
+-rwxrwxrwx 1 alinbabu alinbabu    48 Mar 10 10:35 optab.txt
+-rwxrwxrwx 1 alinbabu alinbabu   524 Nov 10  2016 parent.txt
+-rwxrwxrwx 1 alinbabu alinbabu  3047 Oct 19  2017 pass1.txt
+-rwxrwxrwx 1 alinbabu alinbabu  2158 Oct 19  2017 proconsumer.txt
+-rwxrwxrwx 1 alinbabu alinbabu   827 Mar  6 19:35 server.c
+-rwxrwxrwx 1 alinbabu alinbabu  1461 Apr 13 18:01 smtpclient.c
+-rwxrwxrwx 1 alinbabu alinbabu  2120 Apr 13 18:43 smtpserver.c
+-rwxrwxrwx 1 alinbabu alinbabu  1566 Nov 15  2016 sort.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1381 Jan 23  2018 spipe.c
+-rwxrwxrwx 1 alinbabu alinbabu  1375 Jan 23  2018 spipe.txt
+-rwxrwxrwx 1 alinbabu alinbabu  1611 Nov 15  2016 string.txt
+-rwxrwxrwx 1 alinbabu alinbabu    59 Oct 19  2017 symtab.txt
+-rwxrwxrwx 1 alinbabu alinbabu     0 Apr 14 13:24 temps.txt
+-rwxrwxrwx 1 alinbabu alinbabu  3695 Sep 10  2017 tld.txt
+abu alinbabu     0 Apr 14 13:24 temps.txt
+-rwxrwxrwx 1 alinbabu alinbabu  3695 Sep 1

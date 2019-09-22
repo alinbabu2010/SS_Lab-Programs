@@ -1,0 +1,4 @@
+LDA     00
+STA     12
+ADD     24
+SUB     28
